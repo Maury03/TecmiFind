@@ -1,12 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { Marker, Popup } from 'react-leaflet';
+import dataFile from '../assets/campus_data.json';
 
-const Marcadores = () => {
+function Marcadores() {
     try{
-        var request = new XMLHttpRequest();
-        request.open("GET", "../../src/assets/campus_data.json", false);
-        request.send(null)
-        var dataFile = JSON.parse(request.responseText)
         const markerList = dataFile.map((campus) => 
             <Marker key={campus.nombre} position={[campus.coordenadas.latitud, campus.coordenadas.longitud]}>
                 <Popup>

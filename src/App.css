@@ -1,5 +1,4 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 0px;
   text-align: center;
@@ -39,4 +38,65 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.busqueda{
+  position: absolute;
+  background-color: rgba(255, 255, 255, .60);
+  backdrop-filter: blur(20px);
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: calc(100vh - 40px);
+  width: 25vw;
+  min-width: 273px;
+  z-index: 1000;
+  align-self: start;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.busqueda ul{
+  list-style-type: ""; 
+  width: 100%;
+  height: calc(100% - 52px);
+  padding: 0;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  overflow-y: scroll;
+}
+
+.busqueda li{
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.busqueda input{
+  width: calc(100% - 18px);
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  font-family: inherit;
+}
+
+.busqueda button{
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: white;
+  color: black;
+  width: 100%;
+  align-items: start;
+  justify-items: left;
+}
+
+.busqueda button h3{
+  font-size: medium;
+  margin: 0px;
+}
+
+.busqueda button p{
+  margin: 0px;
+  font-size: small;
+  text-align: left;
 }
