@@ -1,15 +1,22 @@
-import { useState } from 'react'
+import React, { useState } from 'react';
 import Mapa from './components/Mapa'
 import './App.css'
 import PantallaBusqueda from './components/PantallaBusqueda'
+import CampusInformacion from './components/CampusInformacion';
 
 function App() {
-  return (
-    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", padding: "0px" }}>
-      <Mapa />
-      <PantallaBusqueda />
-    </div>
-  )
+    const [campusSeleccionado, setCampusSeleccionado] = useState(null);
+
+    return (
+        <>
+            <PantallaBusqueda setCampusSeleccionado={setCampusSeleccionado} />
+            <Mapa setCampusSeleccionado={setCampusSeleccionado} />
+            <CampusInformacion
+                campusSeleccionado={campusSeleccionado}
+                setCampusSeleccionado={setCampusSeleccionado}
+            />
+        </>
+    );
 }
 
 export default App
