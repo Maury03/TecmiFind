@@ -5,12 +5,13 @@ import dataFile from '../assets/campus_data.json';
 
 function Marcadores({ setCampusSeleccionado }) {
     const defaultIcon = new L.Icon({
-        iconUrl: './markers/marker-icon.png',
+        iconUrl: './markers_img/marker-icon.png',
+        iconRetinaUrl: './markers_img/marker-icon-2x.png',
         iconSize: [25, 41],
         iconAnchor: [12,41],
         popupAnchor: [1, -34],
         tooltipAnchor: [16, -28],
-        shadowUrl: './markers/marker-shadow.png',
+        shadowUrl: './markers_img/marker-shadow.png',
         shadowSize: [41, 41],
         shadowAnchor: [12, 41]
     })
@@ -19,6 +20,7 @@ function Marcadores({ setCampusSeleccionado }) {
             <Marker
                 key={campus.nombre}
                 position={[campus.coordenadas.latitud, campus.coordenadas.longitud]}
+                icon={defaultIcon}
                 eventHandlers={{
                     click: () => setCampusSeleccionado(campus), 
                 }}
