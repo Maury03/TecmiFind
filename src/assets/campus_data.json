@@ -45,7 +45,7 @@
             "Licenciatura en Administración de Empresas"
         ],
         "ubicacion": "Boulevard Petrocel, Puerto Industrial Km 1.3, 89600 Altamira, Tamps.",
-        "imagen": "/src/assets/campus/tampico.jpg"
+        "imagen": "./campus_img/tampico.jpg"
     },
     {
         "coordenadas": {
@@ -87,7 +87,7 @@
             "Licenciatura en Diseño Gráfico y Animación"
         ],
         "ubicacion": "Av Montaña Monarca 1340, 58350 Morelia, Mich., México",
-        "imagen": "/src/assets/campus/morelia.jpg"
+        "imagen": "./campus_img/morelia.jpg"
     },
     {
         "coordenadas": {
@@ -119,7 +119,7 @@
             "Licenciatura en Educación y Desarrollo"
         ],
         "ubicacion": "Perif. Blvd. Manuel Ávila Camacho 2610, San Andrés Atenco, 54040 Tlalnepantla de Baz, Méx Centro comercial Sentura PB 05,06",
-        "imagen": "/src/assets/campus/satelite.jpg"
+        "imagen": "./campus_img/satelite.jpg"
     },
     {
         "coordenadas": {
@@ -151,7 +151,7 @@
             "Licenciatura en Educación y Desarrollo"
         ],
         "ubicacion": "Av. Vasco De Quiroga #3900, 2do Piso, Col. Lomas De Santa Fe, C.P. 01219 Cuajimalpa de Morelos Ciudad De Mexico",
-        "imagen": "/src/assets/campus/santaFe.jpg"
+        "imagen": "./campus_img/santaFe.jpg"
     },
     {
         "coordenadas": {
@@ -181,7 +181,7 @@
             "Licenciatura en Educación y Desarrollo"
         ],
         "ubicacion": "Manuel J. Clouthier 304, Jardines del Campestre, 37128 León, Gto, Local 118-A",
-        "imagen": "/src/assets/campus/leon.jpg"
+        "imagen": "./campus_img/leon.jpg"
     },
     {
         "coordenadas": {
@@ -212,7 +212,7 @@
             "Licenciatura en Educación y Desarrollo"
         ],
         "ubicacion": "Av. Manuel Doblado 2721 Col. Calette CP. 22044.",
-        "imagen": "/src/assets/campus/tijuanaRio.jpeg"
+        "imagen": "./campus_img/tijuanaRio.jpeg"
     },
     {
         "coordenadas": {
@@ -243,7 +243,7 @@
             "Licenciatura en Educación y Desarrollo"
         ],
         "ubicacion": "Av. Nazario Ortiz #2060, int. #141 Col. Tanque de Peña, Saltillo, Coahuila.",
-        "imagen": "/src/assets/campus/saltillo.jpeg"
+        "imagen": "./campus_img/saltillo.jpeg"
     },
   {
     "nombre": "Campus Mítikah Coyoacán",
@@ -273,7 +273,7 @@
       "longitud": -99.16751788449074
     },
     "descripcion": "Campus Mítikah Coyoacán innova en la CDMX mediante espacios de aprendizaje equipados con alta tecnología y un modelo flexible que facilita la conciliación entre estudios, vida personal y actividades profesionales. Se enfoca en la formación de líderes que contribuyen de manera significativa a la transformación social, incentivando la creatividad y el pensamiento crítico.",
-    "imagen": "/src/assets/campus/mitikah.jpeg"
+    "imagen": "./campus_img/mitikah.jpeg"
   },
   {
     "nombre": "Campus Reforma",
@@ -305,7 +305,7 @@
       "longitud": -99.17118106037451
     },
     "descripcion": "Campus Reforma, situado en la emblemática avenida del mismo nombre, integra tecnología vanguardista y un enfoque práctico que impulsa la creación de proyectos académicos con impacto global. Con espacios de coworking y un ambiente multicultural, promueve la colaboración interdisciplinaria entre alumnos y profesores, generando un ecosistema de innovación en plena Ciudad de México.",
-    "imagen": "/src/assets/campus/reforma.jpg"
+    "imagen": "./campus_img/reforma.jpg"
   },
   {
     "nombre": "Campus Zacatecas",
@@ -333,7 +333,7 @@
       "longitud": -102.53576353044313
     },
     "descripcion": "Campus Zacatecas es pionero en el desarrollo de empresas y el emprendimiento a nivel regional, enfocándose en la práctica y la formación de competencias clave para el crecimiento económico local. Con su oferta de programas de prepa, licenciatura y posgrado, fomenta la investigación y la vinculación con empresas para impulsar el desarrollo profesional de sus egresados.",
-    "imagen": "/src/assets/campus/zacatecas.jpeg"
+    "imagen": "./campus_img/zacatecas.jpeg"
   },
   {
     "nombre": "Campus Las Américas",
@@ -367,7 +367,7 @@
       "longitud": -99.01895283324244
     },
     "descripcion": "Campus Las Américas, ubicado en Ecatepec, fusiona metodologías educativas innovadoras y competencias transversales que preparan a los alumnos para enfrentar retos complejos en su vida profesional. Gracias a su enfoque práctico y el uso de plataformas virtuales, los estudiantes pueden avanzar a su propio ritmo y acceder a experiencias formativas con empresas de la zona conurbada.",
-    "imagen": "/src/assets/campus/lasAmericas.jpg"
+    "imagen": "./campus_img/lasAmericas.jpg"
   },
   {
     "nombre": "Campus Toluca",
@@ -411,7 +411,7 @@
       "longitud": -99.62752312564653
     },
     "descripcion": "Campus Toluca se distingue por sus laboratorios de vanguardia y un enfoque integral de competencias, reforzando la cercanía con la industria local para elevar los índices de empleabilidad. Su modelo educativo incorpora un acompañamiento continuo al estudiante, impulsando su crecimiento profesional y emocional en un entorno altamente colaborativo.",
-    "imagen": "/src/assets/campus/toluca.jpg"
+    "imagen": "./campus_img/toluca.jpg"
   },
   {
     "nombre": "Campus Ferrería",
@@ -459,7 +459,7 @@
       "longitud": -99.17555923546847
     },
     "descripcion": "Campus Ferrería cuenta con un entorno académico de vanguardia y un modelo basado en competencias, diseñado para promover el desarrollo profesional en Azcapotzalco. Sus instalaciones tecnológicas y la interacción con profesores con amplia trayectoria otorgan a los alumnos la oportunidad de participar en proyectos reales que potencian sus habilidades laborales y de investigación.",
-    "imagen": "/src/assets/campus/ferreria.jpg"
+    "imagen": "./campus_img/ferreria.jpg"
   },
   {
     "nombre": "Campus Cuautitlán Izcalli",
@@ -502,7 +502,7 @@
       "longitud": -99.21419081592968
     },
     "descripcion": "Campus Cuautitlán Izcalli ofrece planes de estudio flexibles y un enfoque práctico orientado a la realidad del Estado de México, impulsando el crecimiento de líderes positivos. La combinación de clases teóricas, prácticas y virtuales promueve el uso de recursos digitales de última generación, fortaleciéndose con convenios empresariales que benefician a la comunidad estudiantil.",
-    "imagen": "/src/assets/campus/cuatitlan.jpg"
+    "imagen": "./campus_img/cuatitlan.jpg"
   },
   {
     "nombre": "Campus Mérida",
@@ -541,7 +541,7 @@
       "longitud": -89.66158700859631
     },
     "descripcion": "Campus Mérida fomenta la formación intercultural, integrando tradición y modernidad en programas de prepa, licenciatura y posgrado. Su modelo educativo flexible y colaborativo promueve la participación activa en proyectos sociales y de investigación, estrechamente vinculados al desarrollo cultural y económico de Yucatán.",
-    "imagen": "/src/assets/campus/merida.jpg"
+    "imagen": "./campus_img/merida.jpg"
   },
   {
     "nombre": "Campus Reynosa",
@@ -583,7 +583,7 @@
       "longitud": -98.41969756624452
     },
     "descripcion": "Campus Reynosa orienta sus planes de estudio al bienestar, competitividad y empleabilidad de la frontera tamaulipeca. Con una estructura académica que prioriza el aprendizaje práctico y la innovación, fomenta la vinculación con empresas de la región, potenciando la formación de profesionales que lideran el crecimiento local.",
-    "imagen": "/src/assets/campus/reynosa.jpg"
+    "imagen": "./campus_img/reynosa.jpg"
   },
   {
     "nombre": "Campus Nuevo Laredo",
@@ -620,7 +620,7 @@
       "longitud": -99.51657046818383
     },
     "descripcion": "Campus Nuevo Laredo se especializa en programas de licenciatura y posgrado con un enfoque en la colaboración regional, promoviendo el crecimiento académico e industrial en la frontera con Estados Unidos. Su infraestructura moderna ofrece laboratorios, áreas deportivas y un ecosistema que incentiva la vocación emprendedora de sus alumnos.",
-    "imagen": "/src/assets/campus/nuevoLaredo.jpg"
+    "imagen": "./campus_img/nuevoLaredo.jpg"
   },
   {
     "nombre": "Campus Villahermosa",
@@ -659,7 +659,7 @@
       "longitud": -92.93777217437108
     },
     "descripcion": "Campus Villahermosa prepara profesionales competitivos en Tabasco mediante la adopción de tecnología educativa de punta y un enfoque práctico en sus planes de estudio. Estas características contribuyen al desarrollo socioeconómico local, fortaleciendo la participación de sus egresados en diversos proyectos y organizaciones de la región.",
-    "imagen": "/src/assets/campus/villahermosa.jpg"
+    "imagen": "./campus_img/villahermosa.jpg"
   },
   {
     "nombre": "Campus Hermosillo",
@@ -700,7 +700,7 @@
       "longitud": -110.95748096908056
     },
     "descripcion": "Campus Hermosillo cuenta con laboratorios especializados y convenios empresariales, fortaleciendo el talento local en Sonora. Su modelo de educación híbrida y la sólida vinculación con el sector industrial garantizan oportunidades de práctica profesional, colaborando con la reactivación y el crecimiento económico de la entidad.",
-    "imagen": "/src/assets/campus/hermosillo.jpg"
+    "imagen": "./campus_img/hermosillo.jpg"
   },
   {
     "nombre": "Campus Ciudad Obregón",
@@ -735,7 +735,7 @@
       "longitud": -109.93763209655101
     },
     "descripcion": "Campus Ciudad Obregón impulsa un modelo de bienestar y programas académicos que promueven la internacionalización y la movilidad estudiantil, ubicándose en el Top 5 nacional. La cercanía con el sector agroindustrial de Sonora brinda a los alumnos una visión integral de la cadena productiva, ampliando su proyección laboral.",
-    "imagen": "/src/assets/campus/obregon.jpg"
+    "imagen": "./campus_img/obregon.jpg"
   },
   {
     "nombre": "Campus Mazatlán",
@@ -773,7 +773,7 @@
       "longitud": -106.44872900303348
     },
     "descripcion": "Campus Mazatlán desarrolla plataformas tecnológicas y sistemas de mentoría que favorecen el crecimiento integral de los alumnos, situándose en el dinámico entorno costero de Sinaloa. Mediante la vinculación con empresas turísticas y comerciales, fomenta el emprendimiento y la innovación en una de las ciudades portuarias más relevantes del país.",
-    "imagen": "/src/assets/campus/mazatlan.jpg"
+    "imagen": "./campus_img/mazatlan.jpg"
   },
   {
     "nombre": "Campus Los Mochis",
@@ -810,7 +810,7 @@
       "longitud": -109.02455531317385
     },
     "descripcion": "Campus Los Mochis ofrece instalaciones deportivas y laboratorios bien equipados, generando un ambiente universitario activo y enriquecedor. Su metodología basada en competencias y alianzas con el sector productivo local permite a los estudiantes adquirir experiencias reales y un sólido perfil profesional.",
-    "imagen": "/src/assets/campus/mochis2.jpeg"
+    "imagen": "./campus_img/mochis2.jpeg"
   },
   {
     "nombre": "Campus Culiacán",
@@ -852,7 +852,7 @@
       "longitud": -107.43481425528769
     },
     "descripcion": "Campus Culiacán combina la experiencia de docentes certificados con herramientas digitales de última generación, potenciando la internacionalización académica en Sinaloa. Los egresados participan en proyectos de impacto social y empresarial, contribuyendo al fortalecimiento de la competitividad regional.",
-    "imagen": "/src/assets/campus/culiacan.jpg"
+    "imagen": "./campus_img/culiacan.jpg"
   },
   {
     "nombre": "Campus Querétaro",
@@ -894,7 +894,7 @@
       "longitud": -100.4041890886773
     },
     "descripcion": "Campus Querétaro cuenta con instalaciones amplias y una filosofía de aprendizaje práctico, impulsando egresados con un liderazgo positivo. A través de la colaboración con organizaciones y el uso de tecnología de vanguardia, este campus se consolida como referente en la entidad, respondiendo a la demanda de profesionales altamente capacitados.",
-    "imagen": "/src/assets/campus/queretaro.jpg"
+    "imagen": "./campus_img/queretaro.jpg"
   },
   {
     "nombre": "Campus Puebla",
@@ -936,7 +936,7 @@
       "longitud": -98.22524913974381
     },
     "descripcion": "Campus Puebla integra tecnología de punta y planes de estudio flexibles, estableciéndose como un referente de calidad académica y colaboración empresarial. Sus iniciativas de investigación y difusión cultural contribuyen al posicionamiento de sus egresados como agentes de cambio en la escena educativa y social del estado.",
-    "imagen": "/src/assets/campus/puebla.jpg"
+    "imagen": "./campus_img/puebla.jpg"
   },
   {
     "nombre": "Campus Guadalupe",
@@ -981,7 +981,7 @@
       "longitud": -100.20727519142696
     },
     "descripcion": "Campus Guadalupe ofrece laboratorios de última generación y profesores vinculados de manera activa a la industria de Nuevo León, lo que brinda un enfoque práctico en cada asignatura. Además, su acompañamiento personalizado impulsa la formación integral de los estudiantes, garantizando una experiencia académica de calidad y con alto compromiso social.",
-    "imagen": "/src/assets/campus/guadalupe.jpg"
+    "imagen": "./campus_img/guadalupe.jpg"
   },
   {
     "nombre": "Campus Cumbres",
@@ -1026,7 +1026,7 @@
       "longitud": -100.40296052998895
     },
     "descripcion": "Campus Cumbres fomenta la innovación a través de su centro Hobon, donde los alumnos desarrollan proyectos empresariales y de impacto social en un entorno de aprendizaje colaborativo. Con un sólido liderazgo estudiantil y la participación de profesores especialistas, este campus se consolida como referente en la zona poniente de Monterrey.",
-    "imagen": "/src/assets/campus/cumbres.jpg"
+    "imagen": "./campus_img/cumbres.jpg"
   },
   {
     "nombre": "Campus Cuernavaca",
@@ -1065,7 +1065,7 @@
       "longitud": -99.21214449796038
     },
     "descripcion": "Campus Cuernavaca, con su nuevo edificio educativo y enfoque práctico, se alza como un referente de innovación académica en Morelos. Las competencias de investigación e inserción laboral se fortalecen gracias a la participación de docentes expertos y la vinculación con empresas locales y nacionales.",
-    "imagen": "/src/assets/campus/cuernavaca.jpeg"
+    "imagen": "./campus_img/cuernavaca.jpeg"
   },
   {
     "nombre": "Campus Guadalajara Norte Zapopan",
@@ -1108,7 +1108,7 @@
       "longitud": -103.37199521751043
     },
     "descripcion": "Campus Guadalajara Norte Zapopan promueve un ecosistema de bienestar y liderazgo, fortalecido por tecnología educativa avanzada y planes de estudio flexibles. Con una gran tradición emprendedora en la región, sus alumnos y egresados son reconocidos por el desarrollo de proyectos que contribuyen a la competitividad del estado de Jalisco.",
-    "imagen": "/src/assets/campus/guadalajara.jpg"
+    "imagen": "./campus_img/guadalajara.jpg"
   },
   {
     "nombre": "Campus Guadalajara Sur",
@@ -1153,7 +1153,7 @@
       "longitud": -103.41454803752897
     },
     "descripcion": "Campus Guadalajara Sur combina laboratorios de vanguardia y profesores con trayectoria internacional, ofreciendo una formación integral para estudiantes en Tlaquepaque. El enfoque intercultural y la flexibilidad de horarios facilitan la participación en actividades extracurriculares y proyectos de colaboración con empresas de la región.",
-    "imagen": "/src/assets/campus/guadalajaraSur.jpg"
+    "imagen": "./campus_img/guadalajaraSur.jpg"
   },
   {
     "nombre": "Campus Durango",
@@ -1192,7 +1192,7 @@
       "longitud": -104.66922605558645
     },
     "descripcion": "Campus Durango se especializa en Ingeniería Industrial y cuenta con profesores destacados por su experiencia profesional, fomentando el liderazgo estudiantil en la región. Gracias a un sistema de becas y convenios con múltiples empresas, promueve la movilidad académica y oportunidades de prácticas reales.",
-    "imagen": "/src/assets/campus/durango.jpg"
+    "imagen": "./campus_img/durango.jpg"
   },
   {
     "nombre": "Campus Ciudad Juárez",
@@ -1233,7 +1233,7 @@
       "longitud": -106.38629595945349
     },
     "descripcion": "Campus Ciudad Juárez, con la preparatoria privada más grande de la ciudad, impulsa la empleabilidad y el crecimiento profesional mediante un modelo centrado en competencias. La integración de plataformas tecnológicas y las alianzas con la industria fronteriza permiten a los alumnos acceder a un entorno educativo de amplio alcance.",
-    "imagen": "/src/assets/campus/juarez.jpg"
+    "imagen": "./campus_img/juarez.jpg"
   },
   {
     "nombre": "Campus Laguna",
@@ -1280,7 +1280,7 @@
       "longitud": -103.41095041200332
     },
     "descripcion": "Campus Laguna ofrece un modelo educativo flexible que empodera a los estudiantes a diseñar su propia ruta académica, integrando experiencias prácticas y un enfoque orientado al bienestar. Esto les permite desarrollar capacidades críticas para desempeñarse con éxito en el sector industrial y empresarial de Coahuila.",
-    "imagen": "/src/assets/campus/laguna.jpg"
+    "imagen": "./campus_img/laguna.jpg"
   },
   {
     "nombre": "Campus Veracruz",
@@ -1322,7 +1322,7 @@
       "longitud": -96.0671336555939
     },
     "descripcion": "Campus Veracruz destaca por planes de estudio flexibles y alianzas con organizaciones locales, impulsando el desarrollo integral de sus estudiantes en el entorno portuario de la región. Su infraestructura y metodología orientadas a la práctica fomentan la adaptación a escenarios internacionales y la participación en proyectos innovadores.",
-    "imagen": "/src/assets/campus/veracruz.jpg"
+    "imagen": "./campus_img/veracruz.jpg"
   },
   {
     "nombre": "Campus San Luis Potosí",
@@ -1366,7 +1366,7 @@
       "longitud": -101.01970406781591
     },
     "descripcion": "Campus San Luis Potosí sobresale por su celda de manufactura y el enfoque industrial de sus programas, ofreciendo prácticas profesionales y un acompañamiento cercano al alumno. Los egresados suelen destacar por sus altos índices de empleabilidad, reflejo del vínculo constante entre el campus y las empresas de la zona.",
-    "imagen": "/src/assets/campus/sanLuisPotosi.jpg"
+    "imagen": "./campus_img/sanLuisPotosi.jpg"
   },
   {
     "nombre": "Campus San Nicolás",
@@ -1408,7 +1408,7 @@
       "longitud": -100.28281558833523
     },
     "descripcion": "Campus San Nicolás brinda un entorno académico dinámico, profesores de renombre y áreas verdes que fomentan la convivencia estudiantil. Ubicado en la zona más céntrica de San Nicolás, su modelo educativo flexible facilita la inserción de los alumnos en prácticas y proyectos reales, generando profesionales listos para destacar en la industria.",
-    "imagen": "/src/assets/campus/sanNicolas.jpg"
+    "imagen": "./campus_img/sanNicolas.jpg"
   },
   {
     "nombre": "Campus Las Torres",
@@ -1476,7 +1476,7 @@
       "longitud": -100.3039354818127
     },
     "descripcion": "Campus Las Torres, con 18 laboratorios de vanguardia y convenios con más de 300 empresas, impulsa la excelencia académica en Nuevo León y ofrece prácticas profesionales de alto impacto. El enfoque integral de su plan de estudios, combinado con una sólida mentoría, permite a los estudiantes desarrollar habilidades innovadoras y emprendedoras.",
-    "imagen": "/src/assets/campus/torres.jpg"
+    "imagen": "./campus_img/torres.jpg"
   },
   {
     "nombre": "Campus Chihuahua",
@@ -1520,6 +1520,6 @@
       "longitud": -106.0743678447684
     },
     "descripcion": "Campus Chihuahua, ubicado en el corazón de la ciudad, se caracteriza por instalaciones de vanguardia y un modelo que facilita la integración de los estudiantes al entorno laboral local. Gracias al contacto directo con industrias de la región, los alumnos participan en proyectos de investigación y desarrollo, fortaleciendo su perfil profesional y su capacidad de liderazgo.",
-    "imagen": "/src/assets/campus/chihuahua2.jpg"
+    "imagen": "./campus_img/chihuahua2.jpg"
   }
 ]
